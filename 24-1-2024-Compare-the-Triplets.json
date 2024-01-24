@@ -1,0 +1,6 @@
+{
+    "author": "Felipe Alves",
+    "email": "falves99.dev@gmail.com",
+    "log": "Calculated the triplets difference (a[i] - b[i]) where -1 equals a point for b, +1 equals a point for a",
+    "difficulty": "Easy - Warmup"
+}
