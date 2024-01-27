@@ -1,0 +1,6 @@
+{
+    "author": "Felipe Alves",
+    "email": "falves99.dev@gmail.com",
+    "log": "Looped the lines and got the first index and last index and just added or subtracted respectively, returned absolute value of their difference",
+    "difficulty": "Easy - Warmup"
+}
