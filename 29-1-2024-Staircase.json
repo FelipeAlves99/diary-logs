@@ -1,0 +1,6 @@
+{
+    "author": "Felipe Alves",
+    "email": "falves99.dev@gmail.com",
+    "log": "Looped the amount of steps, appended the '#' based on the step number - space quantity and padded the string left to add whitespaces",
+    "difficulty": "Easy - Warmup"
+}
